@@ -13,11 +13,11 @@ import pygame
 # WIDTH = 1600
 # HEIGHT = 880
 
-WIDTH = 1920
-HEIGHT = 1080
+WIDTH = 1920/2
+HEIGHT = 1080/2
 
-CAR_SIZE_X = 60    
-CAR_SIZE_Y = 60
+CAR_SIZE_X = 60/2
+CAR_SIZE_Y = 60/2
 
 BORDER_COLOR = (255, 255, 255, 255) # Color To Crash on Hit
 
